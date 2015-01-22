@@ -447,7 +447,7 @@
 	#menu li a, #menu li span
 	{
 		display: block;
-		padding: 2em 1.5em;
+		padding: 1em 1.5em;
 		text-align: center;
 		text-decoration:  none;
 		text-transform: uppercase;
@@ -468,7 +468,40 @@
 	#menu .icon
 	{
 	}
+/*********************************************************************************/
+/* social_network                                                                         */
+/*********************************************************************************/
 
+	#social_network
+	{
+	}
+	
+	#social_network ul
+	{
+		background: rgba(255,255,255, 0.5);
+		padding: 0.5em 1em;
+	}
+	
+	#social_network li
+	{
+	}
+	
+	#social_network li, #social_network img
+	{
+		display: inline;
+	}
+	
+	#social_network  li:hover a, #social_network  li.active a, #social_network li.active span
+	{
+	}
+	
+	#social_network .current_page_item a
+	{
+	}
+	
+	#social_network .icon
+	{
+	}
 /*********************************************************************************/
 /* Banner                                                                        */
 /*********************************************************************************/
