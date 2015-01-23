@@ -328,15 +328,11 @@
 /*********************************************************************************/
 /* social_network                                                                */
 /*********************************************************************************/
-	
+
 	#social_network ul
 	{
 		background: rgba(255,255,255, 0.5);
 		padding: 2.5em 1em;
-	}
-	
-	#social_network li
-	{
 	}
 	
 	#social_network li, #social_network img
@@ -405,7 +401,7 @@
 	#copyright
 	{
 		overflow: hidden;
-		padding: 5em 0em;
+		padding: 1em 0em;
 		border-top: 1px solid rgba(0,0,0,0.08);
 	}
 	
